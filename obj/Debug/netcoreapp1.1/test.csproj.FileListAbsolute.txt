@@ -1,0 +1,8 @@
+B:\CODING\CSHARP\test\bin\Debug\netcoreapp1.1\test.deps.json
+B:\CODING\CSHARP\test\bin\Debug\netcoreapp1.1\test.runtimeconfig.json
+B:\CODING\CSHARP\test\bin\Debug\netcoreapp1.1\test.runtimeconfig.dev.json
+B:\CODING\CSHARP\test\bin\Debug\netcoreapp1.1\test.dll
+B:\CODING\CSHARP\test\bin\Debug\netcoreapp1.1\test.pdb
+B:\CODING\CSHARP\test\obj\Debug\netcoreapp1.1\test.AssemblyInfo.cs
+B:\CODING\CSHARP\test\obj\Debug\netcoreapp1.1\test.dll
+B:\CODING\CSHARP\test\obj\Debug\netcoreapp1.1\test.pdb
